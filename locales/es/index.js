@@ -6,7 +6,7 @@ export default {
   soonLanguagePost: 'Post available in English soon',
   comeBack: 'Volver atrás',
   indexPageHead: indexPageHead,
-  posts: 'Posts',
+  posts: 'Tremolo Labs, LLC',
   home: 'Home',
   footer: footer
 }
